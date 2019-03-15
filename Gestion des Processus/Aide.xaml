@@ -1,0 +1,91 @@
+﻿<Window x:Class="Gestion_des_Processus.Aide"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Aide" Height="517.753" Width="709.598" ResizeMode="NoResize">
+    <Grid>
+        <RichTextBox FontFamily="Bahnschrift Light" FontSize="18" VerticalScrollBarVisibility="Auto" IsReadOnly="True" IsUndoEnabled="True" TextOptions.TextFormattingMode="Display" AllowDrop="False">
+            <FlowDocument>
+                <Paragraph TextAlignment="Center" Margin="10,Auto,10,Auto" Padding="0,20" IsEnabled="False" KeepWithNext="True">
+                    Bienvenue dans
+                    <Underline FontFamily="Cooper Black">Process Manager</Underline>
+                    !!!
+                    <LineBreak/>
+                    <LineBreak/>
+                    Nous vous présenterons ici comment utiliser notre appication pour un débutant.
+                    Le tutoriel va porter sur l'ensemble des fonctionnalités de l'application.
+                    <LineBreak/>
+                    <LineBreak/>
+                    <LineBreak/>
+                    <Bold FontFamily="Cooper Black">1 -</Bold>
+                    <Underline FontFamily="Cooper Black">Démarrer</Underline>
+                    <LineBreak/>
+                    <LineBreak/>
+                    Ce onglet comporte deux (02) autres onglets que sont :
+                    <LineBreak/>
+                    <Bold FontFamily="Cooper Black" FontSize="16">Ballon</Bold>
+                    qui vous permet de lancer un processus Ballon.
+                    <LineBreak/>
+                    <Bold FontFamily="Cooper Black" FontSize="16">Premier</Bold>
+                    quant à lui vous permet de lancer un processus Premier.
+                    <LineBreak/>
+                    <LineBreak/>
+                    <LineBreak/>
+                    <Bold FontFamily="Cooper Black">2 -</Bold>
+                    <Underline FontFamily="Cooper Black">Supprimer</Underline>
+                    <LineBreak/>
+                    <LineBreak/>
+                    Ce onglet comporte huit (08) autres onglets que sont :
+                    <LineBreak/>
+                    <Bold FontFamily="Cooper Black" FontSize="16">Ballon</Bold>
+                    qui permet de fermer un processus Ballon sélectionné dans la liste des processus Ballons en cours.
+                    <LineBreak/>
+                    <Bold FontFamily="Cooper Black" FontSize="16">Premier</Bold>
+                    qui permet de fermer un processus Premier sélectionné dans la liste des processus Premiers en cours.
+                    <LineBreak/>
+                    <Bold FontFamily="Cooper Black" FontSize="16">Dernier Ballon</Bold>
+                    qui permet de fermer le dernier processus Ballon en cours.
+                    <LineBreak/>
+                    <Bold FontFamily="Cooper Black" FontSize="16">Dernier Premier</Bold>
+                    qui permet de fermer le dernier processus Premier en cours.
+                    <LineBreak/>
+                    <Bold FontFamily="Cooper Black" FontSize="16">Dernier Processus</Bold>
+                    qui permet de fermer le dernier processus en cours.
+                    <LineBreak/>
+                    <Bold FontFamily="Cooper Black" FontSize="16">Tous les Ballons</Bold>
+                    qui permet de fermer tous les processus Ballons en cours.
+                    <LineBreak/>
+                    <Bold FontFamily="Cooper Black" FontSize="16">Tous les Premiers</Bold>
+                    qui permet de fermer tous les processus Premiers en cours.
+                    <LineBreak/>
+                    <Bold FontFamily="Cooper Black" FontSize="16">Tous les Processus</Bold>
+                    qui permet de fermer tous les processus en cours.
+                    <LineBreak/>
+                    <LineBreak/>
+                    <LineBreak/>
+                    <Bold FontFamily="Cooper Black">3 -</Bold>
+                    <Underline FontFamily="Cooper Black">Masquer</Underline>
+                    <LineBreak/>
+                    <LineBreak/>
+                    Ce onglet permet de masquer et de rendre visible l'interface de l'application.
+                    <LineBreak/>
+                    <LineBreak/>
+                    <LineBreak/>
+                    <Bold FontFamily="Cooper Black">4 -</Bold>
+                    <Underline FontFamily="Cooper Black">Quitter</Underline>
+                    <LineBreak/>
+                    <LineBreak/>
+                    Cet onglet permet de quitter l'application tout en fermant tous les processus en cours.
+                    <LineBreak/>
+                    <LineBreak/>
+                    <LineBreak/>
+                    <Bold FontFamily="Cooper Black">5 -</Bold>
+                    <Underline FontFamily="Cooper Black">Aide ?</Underline>
+                    <LineBreak/>
+                    <LineBreak/>
+                    Ce onglet vous permet de consulter l'aide que vous suivez
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+
+    </Grid>
+</Window>

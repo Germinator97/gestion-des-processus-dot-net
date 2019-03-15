@@ -1,0 +1,15 @@
+P:\Visual Studio\Gestion des Processus\Gestion des Processus\bin\Debug\Gestion des Processus.exe.config
+P:\Visual Studio\Gestion des Processus\Gestion des Processus\bin\Debug\Gestion des Processus.exe
+P:\Visual Studio\Gestion des Processus\Gestion des Processus\bin\Debug\Gestion des Processus.pdb
+P:\Visual Studio\Gestion des Processus\Gestion des Processus\obj\Debug\Gestion des Processus.csprojResolveAssemblyReference.cache
+P:\Visual Studio\Gestion des Processus\Gestion des Processus\obj\Debug\App.g.cs
+P:\Visual Studio\Gestion des Processus\Gestion des Processus\obj\Debug\Gestion des Processus_MarkupCompile.cache
+P:\Visual Studio\Gestion des Processus\Gestion des Processus\obj\Debug\Gestion des Processus.g.resources
+P:\Visual Studio\Gestion des Processus\Gestion des Processus\obj\Debug\Gestion_des_Processus.Properties.Resources.resources
+P:\Visual Studio\Gestion des Processus\Gestion des Processus\obj\Debug\Gestion des Processus.csproj.GenerateResource.Cache
+P:\Visual Studio\Gestion des Processus\Gestion des Processus\obj\Debug\Gestion des Processus.exe
+P:\Visual Studio\Gestion des Processus\Gestion des Processus\obj\Debug\Gestion des Processus.pdb
+P:\Visual Studio\Gestion des Processus\Gestion des Processus\obj\Debug\Aide.baml
+P:\Visual Studio\Gestion des Processus\Gestion des Processus\obj\Debug\Aide.g.cs
+P:\Visual Studio\Gestion des Processus\Gestion des Processus\obj\Debug\ProcessManager.baml
+P:\Visual Studio\Gestion des Processus\Gestion des Processus\obj\Debug\ProcessManager.g.cs
